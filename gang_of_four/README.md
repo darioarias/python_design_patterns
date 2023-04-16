@@ -1,0 +1,2 @@
+# Design Patterns from the Gang Of Four [🔗](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612?keywords=9780321700698&linkCode=qs&qid=1681662381&s=books&sr=1-2&ufe=app_do:amzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
+Here we explore some principles that apply to python from the text, Design Patterns: Elements of Reusable Object-Oriented Software, which is commonly known as the gang of four. 
